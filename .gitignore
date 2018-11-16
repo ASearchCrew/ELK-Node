@@ -1,0 +1,6 @@
+node_modules
+#.idea/elk-node.iml
+#.idea/misc.xml
+#.idea/modules.xml
+#.idea/workspace.xml
+.idea
